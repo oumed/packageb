@@ -1,4 +1,4 @@
-package tab1
+package packageb
 
 func GetMessage() string{
 	return "abc"
